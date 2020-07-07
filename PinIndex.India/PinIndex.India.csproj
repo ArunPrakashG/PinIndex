@@ -2,6 +2,13 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <Authors>Arun Prakash</Authors>
+    <Description>.NET standard wrapper for api.postalpincode.in API.</Description>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <RepositoryUrl>https://github.com/ArunPrakashG/PinIndex</RepositoryUrl>
+    <PackageProjectUrl>https://github.com/ArunPrakashG/PinIndex</PackageProjectUrl>
+    <PackageTags>pincode, csharp, dotnet, india, branchlocation</PackageTags>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
   </PropertyGroup>
 
   <ItemGroup>
