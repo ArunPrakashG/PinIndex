@@ -2,8 +2,8 @@
  
 Unoffical .NET standard wrapper library for `api.postalpincode.in` API.
 Used to get post offices based on either of these search queries:
-	* Pin code (Zip code) of the locality.
-	* Branch name of the locality.
+* Pin code (Zip code) of the locality.
+* Branch name of the locality.
 
 ## Sample Usage
 
